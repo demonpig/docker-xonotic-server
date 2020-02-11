@@ -21,7 +21,7 @@ and execute the following command.
 podman build .
 ```
 
-### Run
+## Run
 ```bash
 # Docker
 docker run -d -p 26000:26000/udp localhost/xonotic-server:latest
